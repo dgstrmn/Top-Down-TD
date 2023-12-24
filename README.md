@@ -1,3 +1,5 @@
+A Prototype for a tower defense game where you start in a randomly generated island, build towers around and try to survive waves of enemies.
+
 ![Screenshot 2023-12-03 032318](https://github.com/dgstrmn/Top-Down-TD/assets/45100431/d60030a1-7b61-46b2-852b-161042b4e41b)<br>
 +random island generation<br>
 +random nature placement<br>
